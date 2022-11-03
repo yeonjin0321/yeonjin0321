@@ -46,6 +46,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonjin0321&layout=compact)](https://github.com/yeonjin0321/github-readme-stats)
 ![yeonjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonjin0321&show_icons=true&theme=radical)
 
-</div>
+
 
 [![yeonjin's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  </div>
