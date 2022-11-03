@@ -37,9 +37,9 @@
   2022.04 - 2022.11<br/>
   [NCS] (디지털컨버전스)자바(JAVA)기반 클라우드 융합 개발자 양성과정
   
- semi project <br/>🏃헬스장 관리 사이트(nar-terrgym)🏃 <br/>
- final project <br/> 🍎농수산물 쇼핑몰(meaning-farm)🍏 <br/>
- toy project <br/> 🚗렌터카 예약 사이트🚗 <br/>
+ semi project <br/>🏃헬스장 관리 사이트(nar-terrgym)🏃 HTML+JS+CSS+FIREBASE <br/>
+ final project <br/> 🍎농수산물 쇼핑몰(meaning-farm)🍏 SPRING+ORACLE <br/>
+ toy project <br/> 🚗렌터카 예약 사이트🚗 JSP+SERVLET <br/>
   
 
   
