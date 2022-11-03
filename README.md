@@ -35,11 +35,11 @@
   BackEnd Developer💥
   
   2022.04 - 2022.11<br/>
-  [NCS] (디지털컨버전스)자바(JAVA)기반 클라우드 융합 개발자 양성과정
+  [NCS] (디지털컨버전스)자바(JAVA)기반 클라우드 융합 개발자 양성과정🆙 
   
  semi project <br/>🏃헬스장 관리 사이트(nar-terrgym) 22.07-22.08🏃<br/> HTML+JS+CSS+FIREBASE <br/>
  final project <br/> 🍎농수산물 쇼핑몰(meaning-farm) 22.10-22.11🍏 <br/>SPRING+ORACLE <br/>
- toy project <br/> 🚗렌터카 예약 사이트 22.09🚗<br/> JSP+SERVLET <br/>
+ toy project <br/> 🚗렌터카 예약 사이트 22.09🚗<br/> JSP+ORACLE <br/>
   
 
   
